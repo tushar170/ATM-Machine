@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 class Atm{
     float Balance;
-    int PIN = 2035;
+    int PIN = 8787;
     Scanner sc = new Scanner(System.in); // Reuse the same scanner
 
     public void checkpin() {
