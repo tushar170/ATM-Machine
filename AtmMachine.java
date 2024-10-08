@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Atm{
+class ATM{
     float Balance;
     int PIN = 8787;
     Scanner sc = new Scanner(System.in); // Reuse the same scanner
